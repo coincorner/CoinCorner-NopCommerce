@@ -1,0 +1,8 @@
+﻿[
+  {
+    "Type": "Plugin",
+    "SupportedVersion": "4.20",
+    "DirectoryPath": "Payments.CoinCornerCheckout/",
+    "SystemName": "Payments.CoinCornerCheckout"
+  }
+]
