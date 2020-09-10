@@ -2,9 +2,9 @@
 Contributors: CoinCorner
 Donate link: https://www.coincorner.com
 Tags: Bitcoin, Payment, Payment Gateway, Accept Bitcoin.
-Requires at least: 4.20
-Requires PHP: 5.2
-Tested up to: 5.2
+Requires at least NopCommerce version: 4.20
+Requires PHP: ASP.Net Core 2.2
+Tested up to: ASP.Net Core 2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Stable tag: 1.0
