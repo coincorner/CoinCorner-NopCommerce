@@ -1,0 +1,16 @@
+﻿{
+  "Group": "Payment methods",
+  "FriendlyName": "Bitcoin",
+  "SupportedVersions": [
+    "4.40"
+  ],
+  "Author": "CoinCorner",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Payments.CoinCornerCheckout.dll",
+  "Description": "Easily accept Bitcoin payments with CoinCorner Checkout.",
+  "LimitedToStores": [],
+  "LimitedToCustomerRoles": [],
+  "DependsOnSystemNames": [],
+  "SystemName": "Payments.CoinCornerCheckout",
+  "Version": "1.3"
+}
